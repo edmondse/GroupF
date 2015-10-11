@@ -1,0 +1,30 @@
+#!/bin/sh
+#
+# This program will show the machine specs
+echo
+echo Here is the following information:
+echo
+echo
+echo CPU information:
+cat /proc/cpuinfo
+echo
+echo
+echo
+echo
+echo
+echo Memory information:
+cat /proc/meminfo
+echo
+echo
+echo
+echo
+echo
+echo Linux/kernel information:
+cat /proc/version
+echo
+echo
+echo
+echo
+echo
+echo Partitions:
+cat /proc/partitions
