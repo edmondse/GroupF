@@ -1,6 +1,6 @@
 /* The following program asks the user for a password, if the password entered
  * is correct, then a secret message is revealed. WARNING! This is not secure.
- * Written by Group F (FSociety), 11-Oct-15, C, version 1.0 */
+ * Written by Group F (FSoc), 11-Oct-15, C, version 1.0 */
 
 #include <stdio.h>
 #include <stdlib.h> /* obsolete in present version */
